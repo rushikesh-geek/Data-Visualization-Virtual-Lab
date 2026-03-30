@@ -4,6 +4,12 @@ An interactive Streamlit application that helps students explore datasets, build
 
 This project combines data analysis, visual storytelling, and ed-tech design into one guided lab experience.
 
+## Live Demo
+
+Hosted on Streamlit:
+
+https://vizellect.streamlit.app/
+
 ## Overview
 
 The Virtual Data Visualization Lab is designed as a hands-on learning environment where users can:
