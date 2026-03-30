@@ -240,16 +240,6 @@ Built by Team ADS, Computer Engineering:
 - Aditya Upasani
 - Raziq Sarwar Mukadam
 
-## Future Improvements
-
-Possible enhancements for future versions:
-
-- more advanced chart recommendations
-- dashboard export and report generation
-- user progress tracking
-- question banks with deeper theory coverage
-- model-based narrative insight generation
-
 ## License
 
-This project is intended for educational and academic use. Add a formal license file if you plan to distribute it publicly for reuse.
+This project is intended for educational and academic use. 
